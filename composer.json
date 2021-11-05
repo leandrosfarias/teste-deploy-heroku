@@ -1,0 +1,14 @@
+{
+  "name": "leandrosfarias/application",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Leandro Farias",
+      "email": "leandrosfarias997@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
