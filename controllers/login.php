@@ -2,7 +2,7 @@
 namespace Application\controllers;
 
 use Application\models\Usuario;
-require 'vendor/autoload.php';
+require 'models/Usuario.php';
 
 /** COLETA AS INFORMAÇÕES DIGITADAS NO FORMULÁRIO DE LOGIN **/
 $email = $_POST['email'] ?? null;
